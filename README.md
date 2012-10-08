@@ -8,3 +8,8 @@
 <li>debugging</li>
 <li>visualization</li>
 </ul>
+<h3>Ex2:</h3>
+<ul>
+<li>logistic regression</li>
+<li>regularization</li>
+</ul>
