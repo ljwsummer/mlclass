@@ -1,4 +1,4 @@
-<h3>Experiments' code for Stanford University Machine Learning Class </h3>
+<h3>My solutions for Stanford University Machine Learning Class </h3>
 <p>You can view this class at https://class.coursera.org/ml/class/index</p>
 <h3>Ex1:</h3>
 <ul>
@@ -12,4 +12,9 @@
 <ul>
 <li>logistic regression</li>
 <li>regularization</li>
+</ul>
+<h3>Ex3:</h3>
+<ul>
+<li>multi-class classification</li>
+<li>neural networks</li>
 </ul>
